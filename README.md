@@ -2,7 +2,7 @@
 A simple example of Hello World written utilizing Web Component [Custom Elements and Extended Elements](http://w3c.github.io/webcomponents/spec/custom/) .
 
 ## Browser Support
-Check out [Can I Use](http://caniuse.com/#feat=custom-elements) to see if/when [IE](https://status.modern.ie/customelements), [Firefox](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) and Safari will adopt the use of Web Component HTML imports. Custom and Extended elements are fully supported in Chrome and Opera.
+Check out [Can I Use](http://caniuse.com/#feat=custom-elements) to see if/when [IE](https://status.modern.ie/customelements), [Firefox](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) and Safari will adopt the use of Web Component Custom elements. Custom and Extended elements are fully supported in Chrome and Opera.
   
 ## What is this?
 This example shows how to utilize Custom and Extended Elements from the Web Component specification to create a Hello World element and extend an Anchor HTML Element.
