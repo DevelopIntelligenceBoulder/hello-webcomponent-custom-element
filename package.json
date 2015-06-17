@@ -1,0 +1,19 @@
+{
+  "name": "hello-webcomponent-custom-element",
+  "version": "0.0.1",
+  "description": "Hello World with Custom HTML Elements and Extended HTML Elements via tht Web Components Specification",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-custom-element.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-webcomponent-custom-element",
+  "devDependencies": {
+    "express": "^4.12.4"
+  }
+}
